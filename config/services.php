@@ -31,14 +31,14 @@ return [
     ],
 
     'firebase' => [
-        'api_key' => 'api_key',
-        'auth_domain' => 'auth_domain',
-        'database_url' => 'database_url',
-        'project_id' => 'project_id',
-        'storage_bucket' => 'storage_bucket',
-        'messaging_sender_id' => 'messaging_sender_id',
-        'app_id' => 'app_id',
-        'measurement_id' => 'measurement_id',
+        'api_key' => 'AIzaSyAhdi_rFiy4Wyeh4ZTQlek_YBqpYHI0gCE',
+        'auth_domain' => 'blogs-2bfc4.firebaseapp.com',
+        'database_url' => 'https://blogs-2bfc4-default-rtdb.firebaseio.com/',
+        'project_id' => 'blogs-2bfc4',
+        'storage_bucket' => 'blogs-2bfc4.appspot.com',
+        'messaging_sender_id' => '903574735268',
+        'app_id' => '1:903574735268:web:0dbd0109f0b5a982651931',
+        'measurement_id' => 'G-7RVLJZD301',
     ],
 
 ];
